@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AnushreeKS_ME20B030/static/css/main.a617e044.chunk.css",
+    "main.js": "/AnushreeKS_ME20B030/static/js/main.73be7449.chunk.js",
+    "main.js.map": "/AnushreeKS_ME20B030/static/js/main.73be7449.chunk.js.map",
+    "runtime-main.js": "/AnushreeKS_ME20B030/static/js/runtime-main.62f2ea27.js",
+    "runtime-main.js.map": "/AnushreeKS_ME20B030/static/js/runtime-main.62f2ea27.js.map",
+    "static/js/2.770dd99b.chunk.js": "/AnushreeKS_ME20B030/static/js/2.770dd99b.chunk.js",
+    "static/js/2.770dd99b.chunk.js.map": "/AnushreeKS_ME20B030/static/js/2.770dd99b.chunk.js.map",
+    "static/js/3.52be047a.chunk.js": "/AnushreeKS_ME20B030/static/js/3.52be047a.chunk.js",
+    "static/js/3.52be047a.chunk.js.map": "/AnushreeKS_ME20B030/static/js/3.52be047a.chunk.js.map",
+    "index.html": "/AnushreeKS_ME20B030/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/AnushreeKS_ME20B030/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.770dd99b.chunk.js.LICENSE.txt": "/AnushreeKS_ME20B030/static/js/2.770dd99b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/AnushreeKS_ME20B030/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62f2ea27.js",
+    "static/js/2.770dd99b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.73be7449.chunk.js"
+  ]
+}
